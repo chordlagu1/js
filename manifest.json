@@ -1,0 +1,21 @@
+// File: manifest.json
+{
+  "name": "Nama Aplikasi Anda",
+  "short_name": "Singkatan Nama Aplikasi",
+  "start_url": "https://amplandingpage1.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjbAa9Sif_LtljvGY6gLSp6YvaRkXugDw_02v-vtUMG0A6XHERU8nG62GIX2YOB6wSzU7EIzoVxZyGDra4Sopl1Nf-cQBu6qBnwRzgyGtFieDilxNoegCXjlqfdFdeE7X5mZYlgL2IeDEEory2mC3YqB7CHEG5fCMHhYRiWqbbeDw8rYCzIvIg43I0hIWI=s128",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjbAa9Sif_LtljvGY6gLSp6YvaRkXugDw_02v-vtUMG0A6XHERU8nG62GIX2YOB6wSzU7EIzoVxZyGDra4Sopl1Nf-cQBu6qBnwRzgyGtFieDilxNoegCXjlqfdFdeE7X5mZYlgL2IeDEEory2mC3YqB7CHEG5fCMHhYRiWqbbeDw8rYCzIvIg43I0hIWI=s128",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
